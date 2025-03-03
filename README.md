@@ -152,7 +152,3 @@ Section 5.3: Continuous Deployment
 Create Canary deployment using flagger, your new application should be installed, only in case of 95% success rate
 Open in Google Cloud Shell
 You can directly open this repository in Google Cloud Shell to start exploring the examples:
-
-Open in Google Cloud Shell
-
-https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/elevy99927/k8s
