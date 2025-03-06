@@ -1,0 +1,11 @@
+apiVersion: monitoring.coreos.com/v1
+kind: PodMonitor
+metadata:
+  name: metrics-app
+spec:
+  selector:
+    matchLabels:
+      app: metrics-app
+  podMetricsEndpoints:
+    - port: 8080
+      path: /metrics
