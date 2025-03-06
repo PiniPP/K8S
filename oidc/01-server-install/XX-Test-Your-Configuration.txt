@@ -1,2 +1,0 @@
-# open the following URL to view your configuration
-https://k8soidc.10.100.102.82.nip.io/auth/oidc/.well-known/openid-configuration
